@@ -1273,9 +1273,9 @@ http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/525
 http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/568
 #EXTINF:-1 group-title="USA",Cheddar
 https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
-EXTINF:-1 group-title="USA",Cheddar Business
+#EXTINF:-1 group-title="USA",Cheddar Business
 https://live.chdrstatic.com/cheddar/primary/1.m3u8
-EXTINF:-1 group-title="USA",Cheddar News
+#EXTINF:-1 group-title="USA",Cheddar News
 https://live.chdrstatic.com/cbn/primary/1.m3u8
 #EXTINF:-1 group-title="USA",CW HD US
 http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/543
