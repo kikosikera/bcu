@@ -1,503 +1,1705 @@
 #EXTM3U
-#EXTINF:-1,CA : A&E
+#EXTINF:-1 group-title="BRAZIL",AE HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3390
+#EXTINF:-1 group-title="BRAZIL",Animal Planet HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3373
+#EXTINF:-1 group-title="BRAZIL",Arte 1 BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3367
+#EXTINF:-1 group-title="BRAZIL",AXN HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3395
+#EXTINF:-1 group-title="BRAZIL",Band Sport HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3392
+#EXTINF:-1 group-title="BRAZIL",Can BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3393
+#EXTINF:-1 group-title="BRAZIL",Band News HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3391
+#EXTINF:-1 group-title="BRAZIL",Discovery TV BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3396
+#EXTINF:-1 group-title="BRAZIL",Fish TV BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3379
+#EXTINF:-1 group-title="BRAZIL",FOX Sports HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/10615
+#EXTINF:-1 group-title="BRAZIL",FOX Sports 2 BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/44285
+#EXTINF:-1 group-title="BRAZIL",Globo News BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/14335
+#EXTINF:-1 group-title="BRAZIL",Globo Nordeste BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/14334
+#EXTINF:-1 group-title="BRAZIL",Globo MINAS HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/14333
+#EXTINF:-1 group-title="BRAZIL",Globo RJ BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/14332
+#EXTINF:-1 group-title="BRAZIL",Globo RJ HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/14331
+#EXTINF:-1 group-title="BRAZIL",Globo SP BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/14330
+#EXTINF:-1 group-title="BRAZIL",Globo SP HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/14329
+#EXTINF:-1 group-title="BRAZIL",Gloob BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3365
+#EXTINF:-1 group-title="BRAZIL",History FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3375
+#EXTINF:-1 group-title="BRAZIL",MTV BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3362
+#EXTINF:-1 group-title="BRAZIL",Mais Globosat HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3368
+#EXTINF:-1 group-title="BRAZIL",MegaPix BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3363
+#EXTINF:-1 group-title="BRAZIL",MegaPix TV BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3384
+#EXTINF:-1 group-title="BRAZIL",RCTV BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3389
+#EXTINF:-1 group-title="BRAZIL",Rede Brasil BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3372
+#EXTINF:-1 group-title="BRAZIL",Rede Gospel BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3371
+#EXTINF:-1 group-title="BRAZIL",Rede TV BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3369
+#EXTINF:-1 group-title="BRAZIL",SporTV 1 BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3382
+#EXTINF:-1 group-title="BRAZIL",SporTV 2 BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3381
+#EXTINF:-1 group-title="BRAZIL",SporTV 3 BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3380
+#EXTINF:-1 group-title="BRAZIL",Syfy BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3359
+#EXTINF:-1 group-title="BRAZIL",TC Action BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3374
+#EXTINF:-1 group-title="BRAZIL",TC Cult BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3361
+#EXTINF:-1 group-title="BRAZIL",TC Fun BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3364
+#EXTINF:-1 group-title="BRAZIL",TC Pipoca HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3366
+#EXTINF:-1 group-title="BRAZIL",TNT HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3360
+#EXTINF:-1 group-title="BRAZIL",TV Brasil Central BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3398
+#EXTINF:-1 group-title="BRAZIL",TV Diario BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3387
+#EXTINF:-1 group-title="BRAZIL",TLC BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3386
+#EXTINF:-1 group-title="BRAZIL",TV Gazeta HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3378
+#EXTINF:-1 group-title="BRAZIL",TV Geral BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3376
+#EXTINF:-1 group-title="BRAZIL",TV Globo BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/14327
+#EXTINF:-1 group-title="BRAZIL",TV Globo Premium BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/14326
+#EXTINF:-1 group-title="BRAZIL",Universal TV BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3385
+#EXTINF:-1 group-title="BRAZIL",Studio Universal HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3370
+#EXTINF:-1 group-title="BRAZIL",Woohoo HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3377
+#EXTINF:-1 group-title="BRAZIL",VH1 Mega Hits BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3397
+#EXTINF:-1 group-title="BRAZIL",Warner TV BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/3358
+#EXTINF:-1 group-title="BRAZIL",PREMIERE 1 HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/75478
+#EXTINF:-1 group-title="BRAZIL",PREMIERE 2 HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/75479
+#EXTINF:-1 group-title="BRAZIL",PREMIERE 3 HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/75480
+#EXTINF:-1 group-title="BRAZIL",PREMIERE 4 HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/75481
+#EXTINF:-1 group-title="BRAZIL",PREMIERE 5 HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/75482
+#EXTINF:-1 group-title="BRAZIL",PREMIERE 6 HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/75483
+#EXTINF:-1 group-title="BRAZIL",PREMIERE 7 HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/75484
+#EXTINF:-1 group-title="BRAZIL",Discovery Turbo HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/78329
+#EXTINF:-1 group-title="BRAZIL",A&E FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79966
+#EXTINF:-1 group-title="BRAZIL",Animal Planet FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79968
+#EXTINF:-1 group-title="BRAZIL",AMC HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79967
+#EXTINF:-1 group-title="BRAZIL",Arte 1 HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79969
+#EXTINF:-1 group-title="BRAZIL",AXN FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79970
+#EXTINF:-1 group-title="BRAZIL",BABY TV HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79971
+#EXTINF:-1 group-title="BRAZIL",BAND CAMPINAS BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79972
+#EXTINF:-1 group-title="BRAZIL",BAND NEWS FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79973
+#EXTINF:-1 group-title="BRAZIL",BIS HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79974
+#EXTINF:-1 group-title="BRAZIL",BOOMERANG HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79975
+#EXTINF:-1 group-title="BRAZIL",Canal Brasil HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79976
+#EXTINF:-1 group-title="BRAZIL",CARTOON NETWORK HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79977
+#EXTINF:-1 group-title="BRAZIL",CINEMAX HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79978
+#EXTINF:-1 group-title="BRAZIL",COMBATE FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79979
+#EXTINF:-1 group-title="BRAZIL",COMEDY CENTRAL FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79980
+#EXTINF:-1 group-title="BRAZIL",CULTURA HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79981
+#EXTINF:-1 group-title="BRAZIL",CURTA! HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79982
+#EXTINF:-1 group-title="BRAZIL",DISCOVERY CHANNEL HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79983
+#EXTINF:-1 group-title="BRAZIL",DISCOVERY CIVILIZATION HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79984
+#EXTINF:-1 group-title="BRAZIL",DISCOVERY HOME & HEALTH FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79985
+#EXTINF:-1 group-title="BRAZIL",DISCOVERY KIDS HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79986
+#EXTINF:-1 group-title="BRAZIL",DISCOVERY SCIENCE HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79987
+#EXTINF:-1 group-title="BRAZIL",DISCOVERY THEATER HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79988
+#EXTINF:-1 group-title="BRAZIL",DISCOVERY TLC HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79989
+#EXTINF:-1 group-title="BRAZIL",DISCOVERY WORLD HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79990
+#EXTINF:-1 group-title="BRAZIL",DISNEY CHANNEL FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79991
+#EXTINF:-1 group-title="BRAZIL",DISNEY Junior BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79992
+#EXTINF:-1 group-title="BRAZIL",DISNEY XD HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79993
+#EXTINF:-1 group-title="BRAZIL",E! HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79994
+#EXTINF:-1 group-title="BRAZIL",ESPN HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79995
+#EXTINF:-1 group-title="BRAZIL",ESPN BRASIL HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79996
+#EXTINF:-1 group-title="BRAZIL",ESPN2 HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79997
+#EXTINF:-1 group-title="BRAZIL",FISH TV HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79998
+#EXTINF:-1 group-title="BRAZIL",FOOD NETWORK HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80003
+#EXTINF:-1 group-title="BRAZIL",FOX HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80004
+#EXTINF:-1 group-title="BRAZIL",FOX LIFE HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80005
+#EXTINF:-1 group-title="BRAZIL",FOX PREMIUM 1 HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80006
+#EXTINF:-1 group-title="BRAZIL",FOX PREMIUM 2 HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80007
+#EXTINF:-1 group-title="BRAZIL",FOX SPORTS FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80008
+#EXTINF:-1 group-title="BRAZIL",FOX SPORTS 2 HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80009
+#EXTINF:-1 group-title="BRAZIL",FUTURA HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80010
+#EXTINF:-1 group-title="BRAZIL",FX FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80011
+#EXTINF:-1 group-title="BRAZIL",GLOBO AMAZONAS HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80012
+#EXTINF:-1 group-title="BRAZIL",GLOBO BAHIA FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80013
+#EXTINF:-1 group-title="BRAZIL",GLOBO BRASILIA  BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80014
+#EXTINF:-1 group-title="BRAZIL",GLOBO CUIABA HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80015
+#EXTINF:-1 group-title="BRAZIL",GLOBO EPTV CAMPINAS HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80016
+#EXTINF:-1 group-title="BRAZIL",GLOBO EPTV RIBEIR BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80017
+#EXTINF:-1 group-title="BRAZIL",GLOBO EPTV SAO CARLOS BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80018
+#EXTINF:-1 group-title="BRAZIL",GLOBO INTERNACIONAL HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80019
+#EXTINF:-1 group-title="BRAZIL",GLOBO NEWS FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80020
+#EXTINF:-1 group-title="BRAZIL",GLOBO NORDESTE HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80021
+#EXTINF:-1 group-title="BRAZIL",GLOBO RBS PORTO ALEGRE BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80022
+#EXTINF:-1 group-title="BRAZIL",GLOBO RIBEIR HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80023
+#EXTINF:-1 group-title="BRAZIL",GLOBO RIO GRANDE DO NORTE HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80024
+#EXTINF:-1 group-title="BRAZIL",GLOBO RJ FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80025
+#EXTINF:-1 group-title="BRAZIL",GLOBO RPC TV BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80026
+#EXTINF:-1 group-title="BRAZIL",GLOBO SP FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80027
+#EXTINF:-1 group-title="BRAZIL",GLOBO TV BELEM BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80028
+#EXTINF:-1 group-title="BRAZIL",GLOBO TV TRIBUNA SANTOS BR 
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80029
+#EXTINF:-1 group-title="BRAZIL",GLOBO TV VANGUARDA S.J DOS CAMPOS BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80030
+#EXTINF:-1 group-title="BRAZIL",GLOBO TV VERDES MARES FORTALEZA HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80031
+#EXTINF:-1 group-title="BRAZIL",GLOOB FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80032
+#EXTINF:-1 group-title="BRAZIL",GNT HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80033
+#EXTINF:-1 group-title="BRAZIL",H2 FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80034
+#EXTINF:-1 group-title="BRAZIL",HBO HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80035
+#EXTINF:-1 group-title="BRAZIL",HBO 2 HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80036
+#EXTINF:-1 group-title="BRAZIL",HBO FAMILY HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80037
+#EXTINF:-1 group-title="BRAZIL",HBO PLUS FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80038
+#EXTINF:-1 group-title="BRAZIL",HBO PLUS HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80039
+#EXTINF:-1 group-title="BRAZIL",HBO SIGNATURE FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80040
+#EXTINF:-1 group-title="BRAZIL",ID FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80042
+#EXTINF:-1 group-title="BRAZIL",LIFETIME HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80043
+#EXTINF:-1 group-title="BRAZIL",HBO Xtreme FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80044
+#EXTINF:-1 group-title="BRAZIL",HBO POP HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80045
+#EXTINF:-1 group-title="BRAZIL",MEGAPIX HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80046
+#EXTINF:-1 group-title="BRAZIL",MTV HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80047
+#EXTINF:-1 group-title="BRAZIL",MTV LIVE FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80048
+#EXTINF:-1 group-title="BRAZIL",MUSIC BOX BRAZIL BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80049
+#EXTINF:-1 group-title="BRAZIL",NAT GEO KIDS HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80050
+#EXTINF:-1 group-title="BRAZIL",NAT GEO WILD HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80051
+#EXTINF:-1 group-title="BRAZIL",NATIONAL GEOGRAPHIC HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80052
+#EXTINF:-1 group-title="BRAZIL",NICK JR HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80053
+#EXTINF:-1 group-title="BRAZIL",NICKELODEON HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80054
+#EXTINF:-1 group-title="BRAZIL",OFF HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80055
+#EXTINF:-1 group-title="BRAZIL",PARAMOUNT CHANNEL HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80056
+#EXTINF:-1 group-title="BRAZIL",PREMIERE CLUBES HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80057
+#EXTINF:-1 group-title="BRAZIL",RECORD HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80058
+#EXTINF:-1 group-title="BRAZIL",RECORD AMAZONAS HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80059
+#EXTINF:-1 group-title="BRAZIL",RECORD CAMPINAS HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80060
+#EXTINF:-1 group-title="BRAZIL",RECORD ESP. SANTO HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80061
+#EXTINF:-1 group-title="BRAZIL",RECORD MG HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80062
+#EXTINF:-1 group-title="BRAZIL",RECORD NEWS HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80063
+#EXTINF:-1 group-title="BRAZIL",RECORD NORDESTE HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80064
+#EXTINF:-1 group-title="BRAZIL",RECORD SP HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80065
+#EXTINF:-1 group-title="BRAZIL",REDE FAMILIA FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80066
+#EXTINF:-1 group-title="BRAZIL",REDE VIDA HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80067
+#EXTINF:-1 group-title="BRAZIL",GLOBO EPTV RIBEIRÃO PRETO BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80068
+#EXTINF:-1 group-title="BRAZIL",SBT HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80069
+#EXTINF:-1 group-title="BRAZIL",SBT TV CIDADE VERDE PIAUI HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80070
+#EXTINF:-1 group-title="BRAZIL",SONY FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80071
+#EXTINF:-1 group-title="BRAZIL",SPACE BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80072
+#EXTINF:-1 group-title="BRAZIL",SPORTV 1 HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80073
+#EXTINF:-1 group-title="BRAZIL",SPORTV 2 FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80074
+#EXTINF:-1 group-title="BRAZIL",SPORTV 3 HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80075
+#EXTINF:-1 group-title="BRAZIL",STUDIO UNIVERSAL FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80076
+#EXTINF:-1 group-title="BRAZIL",SYFY HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80077
+#EXTINF:-1 group-title="BRAZIL",TBS BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80078
+#EXTINF:-1 group-title="BRAZIL",TCM HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80079
+#EXTINF:-1 group-title="BRAZIL",TELECINE ACTION FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80080
+#EXTINF:-1 group-title="BRAZIL",TELECINE CULT HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80081
+#EXTINF:-1 group-title="BRAZIL",TELECINE FUN FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80082
+#EXTINF:-1 group-title="BRAZIL",TELECINE PIPOCA HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80083
+#EXTINF:-1 group-title="BRAZIL",TELECINE PREMIUM HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80084
+#EXTINF:-1 group-title="BRAZIL",TELECINE TOUCH HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80085
+#EXTINF:-1 group-title="BRAZIL",VIVA HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80086
+#EXTINF:-1 group-title="BRAZIL",TNT BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80087
+#EXTINF:-1 group-title="BRAZIL",TNT Series BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80088
+#EXTINF:-1 group-title="BRAZIL",GLOBO BRASILIA BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80089
+#EXTINF:-1 group-title="BRAZIL",TV GAZETA FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80090
+#EXTINF:-1 group-title="BRAZIL",Tooncast FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80091
+#EXTINF:-1 group-title="BRAZIL",UNIVERSAL TV FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80092
+#EXTINF:-1 group-title="BRAZIL",VH1 BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80093
+#EXTINF:-1 group-title="BRAZIL",WARNER CHANNEL FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80094
+#EXTINF:-1 group-title="BRAZIL",WOOHOO FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80095
+#EXTINF:-1 group-title="BRAZIL",PFC BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80096
+#EXTINF:-1 group-title="BRAZIL",Fox Sports 2 FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/80097
+#EXTINF:-1 group-title="BRAZIL",AXN SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81012
+#EXTINF:-1 group-title="BRAZIL",AMC SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81013
+#EXTINF:-1 group-title="BRAZIL",Arte 1 FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81014
+#EXTINF:-1 group-title="BRAZIL",A&E SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81015
+#EXTINF:-1 group-title="BRAZIL",Animal Planet SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81016
+#EXTINF:-1 group-title="BRAZIL",ALL SPORTS HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81018
+#EXTINF:-1 group-title="BRAZIL",Baby TV SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81019
+#EXTINF:-1 group-title="BRAZIL",Band News SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81020
+#EXTINF:-1 group-title="BRAZIL",Band Sports FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81021
+#EXTINF:-1 group-title="BRAZIL",Band HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81022
+#EXTINF:-1 group-title="BRAZIL",Band FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81023
+#EXTINF:-1 group-title="BRAZIL",Band Campinas HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81025
+#EXTINF:-1 group-title="BRAZIL",BIS SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81026
+#EXTINF:-1 group-title="BRAZIL",BIS FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81027
+#EXTINF:-1 group-title="BRAZIL",Boomerang SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81028
+#EXTINF:-1 group-title="BRAZIL",Cartoon Network SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81029
+#EXTINF:-1 group-title="BRAZIL",Cartoon Network FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81030
+#EXTINF:-1 group-title="BRAZIL",CNN Internacional SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81032
+#EXTINF:-1 group-title="BRAZIL",Canal Brasil SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81033
+#EXTINF:-1 group-title="BRAZIL",Canal Brasil FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81034
+#EXTINF:-1 group-title="BRAZIL",Comedy Central SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81035
+#EXTINF:-1 group-title="BRAZIL",Comedy Central HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81036
+#EXTINF:-1 group-title="BRAZIL",Cinemax SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81037
+#EXTINF:-1 group-title="BRAZIL",Cinemax FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81038
+#EXTINF:-1 group-title="BRAZIL",Combate SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81039
+#EXTINF:-1 group-title="BRAZIL",Combate HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81040
+#EXTINF:-1 group-title="BRAZIL",Dog TV FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81042
+#EXTINF:-1 group-title="BRAZIL",Discovery Kids SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81043
+#EXTINF:-1 group-title="BRAZIL",Disney Channel SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81044
+#EXTINF:-1 group-title="BRAZIL",Disney JR FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81045
+#EXTINF:-1 group-title="BRAZIL",Disney Jr HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81046
+#EXTINF:-1 group-title="BRAZIL",Disney XD SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81047
+#EXTINF:-1 group-title="BRAZIL",Discovery World FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81048
+#EXTINF:-1 group-title="BRAZIL",Discovery World SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81049
+#EXTINF:-1 group-title="BRAZIL",Discovery Turbo SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81050
+#EXTINF:-1 group-title="BRAZIL",Discovery Turbo FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81051
+#EXTINF:-1 group-title="BRAZIL",Discovery Theater FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81052
+#EXTINF:-1 group-title="BRAZIL",Discovery H&H SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81053
+#EXTINF:-1 group-title="BRAZIL",Discovery H&H HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81054
+#EXTINF:-1 group-title="BRAZIL",Discovery Science FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81055
+#EXTINF:-1 group-title="BRAZIL",Discovery Channel SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81056
+#EXTINF:-1 group-title="BRAZIL",Discovery Channel FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81057
+#EXTINF:-1 group-title="BRAZIL",E! SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81059
+#EXTINF:-1 group-title="BRAZIL",ESPN Extra SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81060
+#EXTINF:-1 group-title="BRAZIL",ESPN Extra HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81061
+#EXTINF:-1 group-title="BRAZIL",ESPN Extra FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81062
+#EXTINF:-1 group-title="BRAZIL",ESPN Brazil SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81063
+#EXTINF:-1 group-title="BRAZIL",ESPN 2 FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81065
+#EXTINF:-1 group-title="BRAZIL",Food Network SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81066
+#EXTINF:-1 group-title="BRAZIL",Food Network FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81067
+#EXTINF:-1 group-title="BRAZIL",Fx SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81070
+#EXTINF:-1 group-title="BRAZIL",Fx HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81071
+#EXTINF:-1 group-title="BRAZIL",FOX Life SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81072
+#EXTINF:-1 group-title="BRAZIL",FOX Life FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81073
+#EXTINF:-1 group-title="BRAZIL",Fox SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81074
+#EXTINF:-1 group-title="BRAZIL",FOX FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81075
+#EXTINF:-1 group-title="BRAZIL",FOX Premium 1 FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81076
+#EXTINF:-1 group-title="BRAZIL",FOX Premium 1 SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81077
+#EXTINF:-1 group-title="BRAZIL",FOX Premium 2 FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81078
+#EXTINF:-1 group-title="BRAZIL",FOX Sports SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81079
+#EXTINF:-1 group-title="BRAZIL",Globo News HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81082
+#EXTINF:-1 group-title="BRAZIL",Gloob HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81083
+#EXTINF:-1 group-title="BRAZIL",Gloobinho HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81084
+#EXTINF:-1 group-title="BRAZIL",GNT SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81085
+#EXTINF:-1 group-title="BRAZIL",GNT FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81086
+#EXTINF:-1 group-title="BRAZIL",Globo HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81087
+#EXTINF:-1 group-title="BRAZIL",Globo FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81088
+#EXTINF:-1 group-title="BRAZIL",History SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81090
+#EXTINF:-1 group-title="BRAZIL",H2 SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81091
+#EXTINF:-1 group-title="BRAZIL",H2 HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81092
+#EXTINF:-1 group-title="BRAZIL",HBO Signature SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81093
+#EXTINF:-1 group-title="BRAZIL",HBO Signature HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81094
+#EXTINF:-1 group-title="BRAZIL",HBO Plus SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81095
+#EXTINF:-1 group-title="BRAZIL",HBO 2 SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81096
+#EXTINF:-1 group-title="BRAZIL",HBO Family FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81097
+#EXTINF:-1 group-title="BRAZIL",HBO SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81098
+#EXTINF:-1 group-title="BRAZIL",HBO FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81099
+#EXTINF:-1 group-title="BRAZIL",ID Discovery SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81100
+#EXTINF:-1 group-title="BRAZIL",ID Discovery HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81101
+#EXTINF:-1 group-title="BRAZIL",Lifetime SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81102
+#EXTINF:-1 group-title="BRAZIL",Lifetime FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81103
+#EXTINF:-1 group-title="BRAZIL",MTV FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81105
+#EXTINF:-1 group-title="BRAZIL",Mais Globosat SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81106
+#EXTINF:-1 group-title="BRAZIL",Multishow SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81107
+#EXTINF:-1 group-title="BRAZIL",Multishow HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81108
+#EXTINF:-1 group-title="BRAZIL",Multishow FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81109
+#EXTINF:-1 group-title="BRAZIL",Megapix SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81111
+#EXTINF:-1 group-title="BRAZIL",Megapix 4K BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81112
+#EXTINF:-1 group-title="BRAZIL",NatGeo Kids SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81113
+#EXTINF:-1 group-title="BRAZIL",NatGeo Kids FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81114
+#EXTINF:-1 group-title="BRAZIL",Nick Jr SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81115
+#EXTINF:-1 group-title="BRAZIL",Nick JR FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81116
+#EXTINF:-1 group-title="BRAZIL",Nickelodeon SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81117
+#EXTINF:-1 group-title="BRAZIL",Nickelodeon FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81118
+#EXTINF:-1 group-title="BRAZIL",NatGeo Wild SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81119
+#EXTINF:-1 group-title="BRAZIL",NatGeo SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81120
+#EXTINF:-1 group-title="BRAZIL",Off SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81122
+#EXTINF:-1 group-title="BRAZIL",Off FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81123
+#EXTINF:-1 group-title="BRAZIL",Paramount SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81124
+#EXTINF:-1 group-title="BRAZIL",Paramount FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81125
+#EXTINF:-1 group-title="BRAZIL",Premier 1 SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81126
+#EXTINF:-1 group-title="BRAZIL",Premier 1 FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81127
+#EXTINF:-1 group-title="BRAZIL",Premier 2 FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81128
+#EXTINF:-1 group-title="BRAZIL",Premier 3 FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81129
+#EXTINF:-1 group-title="BRAZIL",Premier 4 FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81130
+#EXTINF:-1 group-title="BRAZIL",Premier 4 SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81131
+#EXTINF:-1 group-title="BRAZIL",Premier 5 FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81132
+#EXTINF:-1 group-title="BRAZIL",Premiere 6 FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81133
+#EXTINF:-1 group-title="BRAZIL",Premier 7 SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81134
+#EXTINF:-1 group-title="BRAZIL",Record RJ HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81136
+#EXTINF:-1 group-title="BRAZIL",Record Mg SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81137
+#EXTINF:-1 group-title="BRAZIL",Record Ba HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81138
+#EXTINF:-1 group-title="BRAZIL",Record Parana HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81139
+#EXTINF:-1 group-title="BRAZIL",Record RJ SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81140
+#EXTINF:-1 group-title="BRAZIL",Record RS SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81141
+#EXTINF:-1 group-title="BRAZIL",Record News SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81142
+#EXTINF:-1 group-title="BRAZIL",Record TV SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81144
+#EXTINF:-1 group-title="BRAZIL",Record FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81145
+#EXTINF:-1 group-title="BRAZIL",SBT TV Jornal HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81147
+#EXTINF:-1 group-title="BRAZIL",SBT Cidade Verde HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81148
+#EXTINF:-1 group-title="BRAZIL",SBT SP SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81149
+#EXTINF:-1 group-title="BRAZIL",SBT Interior SP BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81150
+#EXTINF:-1 group-title="BRAZIL",SBT Parana SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81151
+#EXTINF:-1 group-title="BRAZIL",SBT SP HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81152
+#EXTINF:-1 group-title="BRAZIL",SBT FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81153
+#EXTINF:-1 group-title="BRAZIL",Space HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81155
+#EXTINF:-1 group-title="BRAZIL",SyFy FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81156
+#EXTINF:-1 group-title="BRAZIL",Sony SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81157
+#EXTINF:-1 group-title="BRAZIL",Sony HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81158
+#EXTINF:-1 group-title="BRAZIL",Studio Universal SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81159
+#EXTINF:-1 group-title="BRAZIL",Sportv 3 FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81160
+#EXTINF:-1 group-title="BRAZIL",Sportv 2 HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81161
+#EXTINF:-1 group-title="BRAZIL",Sportv 1 FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81162
+#EXTINF:-1 group-title="BRAZIL",Travel Box FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81164
+#EXTINF:-1 group-title="BRAZIL",TV Ra Tim Bum HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81165
+#EXTINF:-1 group-title="BRAZIL",TV Ra Tim Bum SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81166
+#EXTINF:-1 group-title="BRAZIL",Tooncast HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81167
+#EXTINF:-1 group-title="BRAZIL",Tooncast SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81168
+#EXTINF:-1 group-title="BRAZIL",TLC HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81169
+#EXTINF:-1 group-title="BRAZIL",TV Cultura HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81170
+#EXTINF:-1 group-title="BRAZIL",TV Cultura FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81171
+#EXTINF:-1 group-title="BRAZIL",TruTV SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81172
+#EXTINF:-1 group-title="BRAZIL",TBS HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81173
+#EXTINF:-1 group-title="BRAZIL",TBS FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81174
+#EXTINF:-1 group-title="BRAZIL",TCM SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81175
+#EXTINF:-1 group-title="BRAZIL",TNT FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81176
+#EXTINF:-1 group-title="BRAZIL",TNT Series HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81178
+#EXTINF:-1 group-title="BRAZIL",TNT Series FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81179
+#EXTINF:-1 group-title="BRAZIL",Telecine Pipoca FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81181
+#EXTINF:-1 group-title="BRAZIL",Telecine Touch SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81182
+#EXTINF:-1 group-title="BRAZIL",Telecine Touch FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81183
+#EXTINF:-1 group-title="BRAZIL",Telecine Premium SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81184
+#EXTINF:-1 group-title="BRAZIL",Telecine Premium FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81185
+#EXTINF:-1 group-title="BRAZIL",Telecine Fun SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81186
+#EXTINF:-1 group-title="BRAZIL",Telecine Fun HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81187
+#EXTINF:-1 group-title="BRAZIL",Telecine Cult SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81188
+#EXTINF:-1 group-title="BRAZIL",Telecine Cult FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81189
+#EXTINF:-1 group-title="BRAZIL",Telecine Action SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81190
+#EXTINF:-1 group-title="BRAZIL",Telecine Action HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81191
+#EXTINF:-1 group-title="BRAZIL",Viva SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81192
+#EXTINF:-1 group-title="BRAZIL",Viva FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81193
+#EXTINF:-1 group-title="BRAZIL",VH1 FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81194
+#EXTINF:-1 group-title="BRAZIL",Warner Channel SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81195
+#EXTINF:-1 group-title="BRAZIL",Warner Channel HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81196
+#EXTINF:-1 group-title="BRAZIL",Woohoo SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81197
+#EXTINF:-1 group-title="BRAZIL",Zoomoo SD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81198
+#EXTINF:-1 group-title="BRAZIL",Zoomoo HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81199
+#EXTINF:-1 group-title="BRAZIL",Zoomoo FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81200
+#EXTINF:-1 group-title="BRAZIL",TVE Bahia HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81201
+#EXTINF:-1 group-title="BRAZIL",PLANETA HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81204
+#EXTINF:-1 group-title="BRAZIL",Gospel Movies Television BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/81205
+#EXTINF:-1 group-title="BRAZIL",HBO Mundi BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82751
+#EXTINF:-1 group-title="BRAZIL",HBO Mundi FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82752
+#EXTINF:-1 group-title="BRAZIL",TV Brasil HD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82753
+#EXTINF:-1 group-title="BRAZIL",TV Brasil FHD BR
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82754
+#EXTINF:-1 group-title="CANADA" ,A&E
 http://randomserver.site:2086/crystal/12345/16240
-#EXTINF:-1,CA : ABC SEATTLE HD
+#EXTINF:-1 group-title="CANADA" ,ABC SEATTLE HD
 http://randomserver.site:2086/crystal/12345/93977
-#EXTINF:-1,CA : ABC SPARK
+#EXTINF:-1 group-title="CANADA" ,ABC SPARK
 http://randomserver.site:2086/crystal/12345/3285
-#EXTINF:-1,CA : ABC WEST
+#EXTINF:-1 group-title="CANADA" ,ABC WEST
 http://randomserver.site:2086/crystal/12345/3284
-#EXTINF:-1,CA : ABORIGINAL PEOPLE TELEVISION NETWORK
+#EXTINF:-1 group-title="CANADA" ,ABORIGINAL PEOPLE TELEVISION NETWORK
 http://randomserver.site:2086/crystal/12345/65869
-#EXTINF:-1,CA : ADDIK TV
+#EXTINF:-1 group-title="CANADA" ,ADDIK TV
 http://randomserver.site:2086/crystal/12345/66735
-#EXTINF:-1,CA : ADULT SWIM
+#EXTINF:-1 group-title="CANADA" ,ADULT SWIM
 http://randomserver.site:2086/crystal/12345/65868
-#EXTINF:-1,CA : AMC
+#EXTINF:-1 group-title="CANADA" ,AMC
 http://randomserver.site:2086/crystal/12345/3283
-#EXTINF:-1,CA : AMERICAN HEROES CHANNEL
+#EXTINF:-1 group-title="CANADA" ,AMERICAN HEROES CHANNEL
 http://randomserver.site:2086/crystal/12345/3282
-#EXTINF:-1,CA : AMI TELEVISION
+#EXTINF:-1 group-title="CANADA" ,AMI TELEVISION
 http://randomserver.site:2086/crystal/12345/65870
-#EXTINF:-1,CA : ANIMAL PLANET
+#EXTINF:-1 group-title="CANADA" ,ANIMAL PLANET
 http://randomserver.site:2086/crystal/12345/3281
-#EXTINF:-1,CA : ATN TAMIL
+#EXTINF:-1 group-title="CANADA" ,ATN TAMIL
 http://randomserver.site:2086/crystal/12345/93935
-#EXTINF:-1,CA : BBC CANADA
+#EXTINF:-1 group-title="CANADA" ,BBC CANADA
 http://randomserver.site:2086/crystal/12345/65866
-#EXTINF:-1,CA : BBC EARTH
+#EXTINF:-1 group-title="CANADA" ,BBC EARTH
 http://randomserver.site:2086/crystal/12345/99171
-#EXTINF:-1,CA : BBC WORLD NEWS
+#EXTINF:-1 group-title="CANADA" ,BBC WORLD NEWS
 http://randomserver.site:2086/crystal/12345/91261
-#EXTINF:-1,CA : BET
+#EXTINF:-1 group-title="CANADA" ,BET
 http://randomserver.site:2086/crystal/12345/3279
-#EXTINF:-1,CA : BNN BLOOMBERG
+#EXTINF:-1 group-title="CANADA" ,BNN BLOOMBERG
 http://randomserver.site:2086/crystal/12345/3278
-#EXTINF:-1,CA : BOOK TV
+#EXTINF:-1 group-title="CANADA" ,BOOK TV
 http://randomserver.site:2086/crystal/12345/66743
-#EXTINF:-1,CA : BRAVO
+#EXTINF:-1 group-title="CANADA" ,BRAVO
 http://randomserver.site:2086/crystal/12345/3277
-#EXTINF:-1,CA : BUSINESS BLOOMBERG HD
+#EXTINF:-1 group-title="CANADA" ,BUSINESS BLOOMBERG HD
 http://randomserver.site:2086/crystal/12345/93999
-#EXTINF:-1,CA : CABLEPULSE 24TV
+#EXTINF:-1 group-title="CANADA" ,CABLEPULSE 24TV
 http://randomserver.site:2086/crystal/12345/65854
-#EXTINF:-1,CA : CANADA ONE
+#EXTINF:-1 group-title="CANADA" ,CANADA ONE
 http://randomserver.site:2086/crystal/12345/46666
-#EXTINF:-1,CA : CANADA STAR TV
+#EXTINF:-1 group-title="CANADA" ,CANADA STAR TV
 http://randomserver.site:2086/crystal/12345/46667
-#EXTINF:-1,CA : CANADIAN ARAB TV
+#EXTINF:-1 group-title="CANADA" ,CANADIAN ARAB TV
 http://randomserver.site:2086/crystal/12345/63664
-#EXTINF:-1,CA : CANAL D HD
+#EXTINF:-1 group-title="CANADA" ,CANAL D HD
 http://randomserver.site:2086/crystal/12345/93944
-#EXTINF:-1,CA : CBC
+#EXTINF:-1 group-title="CANADA" ,CBC
 http://randomserver.site:2086/crystal/12345/5487
-#EXTINF:-1,CA : CBC EDMONTON
+#EXTINF:-1 group-title="CANADA" ,CBC EDMONTON
 http://randomserver.site:2086/crystal/12345/15276
-#EXTINF:-1,CA : CBC HALIFAX
+#EXTINF:-1 group-title="CANADA" ,CBC HALIFAX
 http://randomserver.site:2086/crystal/12345/15278
-#EXTINF:-1,CA : CBC HALIFAX HD
+#EXTINF:-1 group-title="CANADA" ,CBC HALIFAX HD
 http://randomserver.site:2086/crystal/12345/93930
-#EXTINF:-1,CA : CBC MONTREAL
+#EXTINF:-1 group-title="CANADA" ,CBC MONTREAL
 http://randomserver.site:2086/crystal/12345/15279
-#EXTINF:-1,CA : CBC NEWS NETWORK
+#EXTINF:-1 group-title="CANADA" ,CBC NEWS NETWORK
 http://randomserver.site:2086/crystal/12345/65865
-#EXTINF:-1,CA : CBC OTTAWA
+#EXTINF:-1 group-title="CANADA" ,CBC OTTAWA
 http://randomserver.site:2086/crystal/12345/15280
-#EXTINF:-1,CA : CBC ST JOHNS
+#EXTINF:-1 group-title="CANADA" ,CBC ST JOHNS
 http://randomserver.site:2086/crystal/12345/15282
-#EXTINF:-1,CA : CBC TORONTO
+#EXTINF:-1 group-title="CANADA" ,CBC TORONTO
 http://randomserver.site:2086/crystal/12345/15283
-#EXTINF:-1,CA : CBC VANCOUVER
+#EXTINF:-1 group-title="CANADA" ,CBC VANCOUVER
 http://randomserver.site:2086/crystal/12345/15284
-#EXTINF:-1,CA : CBC WINNIPEG
+#EXTINF:-1 group-title="CANADA" ,CBC WINNIPEG
 http://randomserver.site:2086/crystal/12345/93998
-#EXTINF:-1,CA : CBS BUFFALO (WIVB)
+#EXTINF:-1 group-title="CANADA" ,CBS BUFFALO (WIVB)
 http://randomserver.site:2086/crystal/12345/65863
-#EXTINF:-1,CA : CFJC KAMLOOPS
+#EXTINF:-1 group-title="CANADA" ,CFJC KAMLOOPS
 http://randomserver.site:2086/crystal/12345/91258
-#EXTINF:-1,CA : CFTV ONTARIO
+#EXTINF:-1 group-title="CANADA" ,CFTV ONTARIO
 http://randomserver.site:2086/crystal/12345/91276
-#EXTINF:-1,CA : CHCH
+#EXTINF:-1 group-title="CANADA" ,CHCH
 http://randomserver.site:2086/crystal/12345/3275
-#EXTINF:-1,CA : CHCO TV
+#EXTINF:-1 group-title="CANADA" ,CHCO TV
 http://randomserver.site:2086/crystal/12345/91263
-#EXTINF:-1,CA : CHEK NEWS
+#EXTINF:-1 group-title="CANADA" ,CHEK NEWS
 http://randomserver.site:2086/crystal/12345/3274
-#EXTINF:-1,CA : CHET TV
+#EXTINF:-1 group-title="CANADA" ,CHET TV
 http://randomserver.site:2086/crystal/12345/91272
-#EXTINF:-1,CA : CHEX 2 ONTARIO
+#EXTINF:-1 group-title="CANADA" ,CHEX 2 ONTARIO
 http://randomserver.site:2086/crystal/12345/91257
-#EXTINF:-1,CA : CHEX ONTARIO
+#EXTINF:-1 group-title="CANADA" ,CHEX ONTARIO
 http://randomserver.site:2086/crystal/12345/91256
-#EXTINF:-1,CA : CHRGD
+#EXTINF:-1 group-title="CANADA" ,CHRGD
 http://randomserver.site:2086/crystal/12345/65862
-#EXTINF:-1,CA : CIHC NORTHWEST 
+#EXTINF:-1 group-title="CANADA" ,CIHC NORTHWEST 
 http://randomserver.site:2086/crystal/12345/91641
-#EXTINF:-1,CA : CITY TV MONTREAL HD
+#EXTINF:-1 group-title="CANADA" ,CITY TV MONTREAL HD
 http://randomserver.site:2086/crystal/12345/93933
-#EXTINF:-1,CA : CITY TV TORONTO
+#EXTINF:-1 group-title="CANADA" ,CITY TV TORONTO
 http://randomserver.site:2086/crystal/12345/65853
-#EXTINF:-1,CA : CKWS KINGSTON
+#EXTINF:-1 group-title="CANADA" ,CKWS KINGSTON
 http://randomserver.site:2086/crystal/12345/91266
-#EXTINF:-1,CA : CMT
+#EXTINF:-1 group-title="CANADA" ,CMT
 http://randomserver.site:2086/crystal/12345/3271
-#EXTINF:-1,CA : CNBC CANADA
+#EXTINF:-1 group-title="CANADA" ,CNBC CANADA
 http://randomserver.site:2086/crystal/12345/65861
-#EXTINF:-1,CA : CNN
+#EXTINF:-1 group-title="CANADA" ,CNN
 http://randomserver.site:2086/crystal/12345/16216
-#EXTINF:-1,CA : COMEDY WEST
+#EXTINF:-1 group-title="CANADA" ,COMEDY WEST
 http://randomserver.site:2086/crystal/12345/3266
-#EXTINF:-1,CA : COOKING CHANNEL
+#EXTINF:-1 group-title="CANADA" ,COOKING CHANNEL
 http://randomserver.site:2086/crystal/12345/91273
-#EXTINF:-1,CA : COTTAGE LIFE TV
+#EXTINF:-1 group-title="CANADA" ,COTTAGE LIFE TV
 http://randomserver.site:2086/crystal/12345/3265
-#EXTINF:-1,CA : CP24
+#EXTINF:-1 group-title="CANADA" ,CP24
 http://randomserver.site:2086/crystal/12345/3733
-#EXTINF:-1,CA : CPAC ENGLISH
+#EXTINF:-1 group-title="CANADA" ,CPAC ENGLISH
 http://randomserver.site:2086/crystal/12345/65860
-#EXTINF:-1,CA : CPAC FRENCH
+#EXTINF:-1 group-title="CANADA" ,CPAC FRENCH
 http://randomserver.site:2086/crystal/12345/65859
-#EXTINF:-1,CA : CPAC FRENCH HD
+#EXTINF:-1 group-title="CANADA" ,CPAC FRENCH HD
 http://randomserver.site:2086/crystal/12345/93923
-#EXTINF:-1,CA : CPAC HD
+#EXTINF:-1 group-title="CANADA" ,CPAC HD
 http://randomserver.site:2086/crystal/12345/94004
-#EXTINF:-1,CA : CRAVE 1
+#EXTINF:-1 group-title="CANADA" ,CRAVE 1
 http://randomserver.site:2086/crystal/12345/16227
-#EXTINF:-1,CA : CRAVE 2
+#EXTINF:-1 group-title="CANADA" ,CRAVE 2
 http://randomserver.site:2086/crystal/12345/16226
-#EXTINF:-1,CA : CRAVE 3
+#EXTINF:-1 group-title="CANADA" ,CRAVE 3
 http://randomserver.site:2086/crystal/12345/16225
-#EXTINF:-1,CA : CRAVE 4
+#EXTINF:-1 group-title="CANADA" ,CRAVE 4
 http://randomserver.site:2086/crystal/12345/66727
-#EXTINF:-1,CA : CRIME INVESTIGATION
+#EXTINF:-1 group-title="CANADA" ,CRIME INVESTIGATION
 http://randomserver.site:2086/crystal/12345/3276
-#EXTINF:-1,CA : CTV
+#EXTINF:-1 group-title="CANADA" ,CTV
 http://randomserver.site:2086/crystal/12345/3768
-#EXTINF:-1,CA : CTV 2
+#EXTINF:-1 group-title="CANADA" ,CTV 2
 http://randomserver.site:2086/crystal/12345/65831
-#EXTINF:-1,CA : CTV CALGARY HD
+#EXTINF:-1 group-title="CANADA" ,CTV CALGARY HD
 http://randomserver.site:2086/crystal/12345/93942
-#EXTINF:-1,CA : CTV COMEDY
+#EXTINF:-1 group-title="CANADA" ,CTV COMEDY
 http://randomserver.site:2086/crystal/12345/3268
-#EXTINF:-1,CA : CTV DRAMA
+#EXTINF:-1 group-title="CANADA" ,CTV DRAMA
 http://randomserver.site:2086/crystal/12345/65858
-#EXTINF:-1,CA : CTV LIFE
+#EXTINF:-1 group-title="CANADA" ,CTV LIFE
 http://randomserver.site:2086/crystal/12345/91268
-#EXTINF:-1,CA : CTV MONCTON HD
+#EXTINF:-1 group-title="CANADA" ,CTV MONCTON HD
 http://randomserver.site:2086/crystal/12345/94000
-#EXTINF:-1,CA : CTV MONTREAL HD
+#EXTINF:-1 group-title="CANADA" ,CTV MONTREAL HD
 http://randomserver.site:2086/crystal/12345/93997
-#EXTINF:-1,CA : CTV NEWS 2 LIVE
+#EXTINF:-1 group-title="CANADA" ,CTV NEWS 2 LIVE
 http://randomserver.site:2086/crystal/12345/36344
-#EXTINF:-1,CA : CTV NEWS CHANNEL
+#EXTINF:-1 group-title="CANADA" ,CTV NEWS CHANNEL
 http://randomserver.site:2086/crystal/12345/65857
-#EXTINF:-1,CA : CTV NORTHERN ONTARIO SUDBURY
+#EXTINF:-1 group-title="CANADA" ,CTV NORTHERN ONTARIO SUDBURY
 http://randomserver.site:2086/crystal/12345/93365
-#EXTINF:-1,CA : CTV OTTAWA HD
+#EXTINF:-1 group-title="CANADA" ,CTV OTTAWA HD
 http://randomserver.site:2086/crystal/12345/93926
-#EXTINF:-1,CA : CTV SCI-FI
+#EXTINF:-1 group-title="CANADA" ,CTV SCI-FI
 http://randomserver.site:2086/crystal/12345/65856
-#EXTINF:-1,CA : CTV SUDBURY HD
+#EXTINF:-1 group-title="CANADA" ,CTV SUDBURY HD
 http://randomserver.site:2086/crystal/12345/93914
-#EXTINF:-1,CA : CTV TORONTO
+#EXTINF:-1 group-title="CANADA" ,CTV TORONTO
 http://randomserver.site:2086/crystal/12345/32233
-#EXTINF:-1,CA : CTV VANCOUVER
+#EXTINF:-1 group-title="CANADA" ,CTV VANCOUVER
 http://randomserver.site:2086/crystal/12345/91254
-#EXTINF:-1,CA : CTV2 TORONTO
+#EXTINF:-1 group-title="CANADA" ,CTV2 TORONTO
 http://randomserver.site:2086/crystal/12345/93968
-#EXTINF:-1,CA : CTV2 VICTORIA HD
+#EXTINF:-1 group-title="CANADA" ,CTV2 VICTORIA HD
 http://randomserver.site:2086/crystal/12345/93950
-#EXTINF:-1,CA : DAYSTAR
+#EXTINF:-1 group-title="CANADA" ,DAYSTAR
 http://randomserver.site:2086/crystal/12345/91253
-#EXTINF:-1,CA : DEJAVIEW
+#EXTINF:-1 group-title="CANADA" ,DEJAVIEW
 http://randomserver.site:2086/crystal/12345/93956
-#EXTINF:-1,CA : DISCOVERY CHANNEL
+#EXTINF:-1 group-title="CANADA" ,DISCOVERY CHANNEL
 http://randomserver.site:2086/crystal/12345/3263
-#EXTINF:-1,CA : DISCOVERY SCIENCE
+#EXTINF:-1 group-title="CANADA" ,DISCOVERY SCIENCE
 http://randomserver.site:2086/crystal/12345/3262
-#EXTINF:-1,CA : DISCOVERY VELOCITY
+#EXTINF:-1 group-title="CANADA" ,DISCOVERY VELOCITY
 http://randomserver.site:2086/crystal/12345/99170
-#EXTINF:-1,CA : DISNEY
+#EXTINF:-1 group-title="CANADA" ,DISNEY
 http://randomserver.site:2086/crystal/12345/93917
-#EXTINF:-1,CA : DISNEY CHANNEL
+#EXTINF:-1 group-title="CANADA" ,DISNEY CHANNEL
 http://randomserver.site:2086/crystal/12345/3261
-#EXTINF:-1,CA : DISNEY JR
+#EXTINF:-1 group-title="CANADA" ,DISNEY JR
 http://randomserver.site:2086/crystal/12345/3260
-#EXTINF:-1,CA : DISNEY XD
+#EXTINF:-1 group-title="CANADA" ,DISNEY XD
 http://randomserver.site:2086/crystal/12345/65851
-#EXTINF:-1,CA : DISNEY, LA CHAINE
+#EXTINF:-1 group-title="CANADA" ,DISNEY, LA CHAINE
 http://randomserver.site:2086/crystal/12345/94003
-#EXTINF:-1,CA : DIY NETWORK
+#EXTINF:-1 group-title="CANADA" ,DIY NETWORK
 http://randomserver.site:2086/crystal/12345/13236
-#EXTINF:-1,CA : DOCUMENTARY
+#EXTINF:-1 group-title="CANADA" ,DOCUMENTARY
 http://randomserver.site:2086/crystal/12345/3259
-#EXTINF:-1,CA : DTOUR
+#EXTINF:-1 group-title="CANADA" ,DTOUR
 http://randomserver.site:2086/crystal/12345/65852
-#EXTINF:-1,CA : E!
+#EXTINF:-1 group-title="CANADA" ,E!
 http://randomserver.site:2086/crystal/12345/13235
-#EXTINF:-1,CA : EVASI 
+#EXTINF:-1 group-title="CANADA" ,EVASI 
 http://randomserver.site:2086/crystal/12345/93945
-#EXTINF:-1,CA : EVENTS CHANNEL
+#EXTINF:-1 group-title="CANADA" ,EVENTS CHANNEL
 http://randomserver.site:2086/crystal/12345/3258
-#EXTINF:-1,CA : FAITH TV
+#EXTINF:-1 group-title="CANADA" ,FAITH TV
 http://randomserver.site:2086/crystal/12345/66742
-#EXTINF:-1,CA : FAMILY
+#EXTINF:-1 group-title="CANADA" ,FAMILY
 http://randomserver.site:2086/crystal/12345/3257
-#EXTINF:-1,CA : FAMILY (EAST)
+#EXTINF:-1 group-title="CANADA" ,FAMILY (EAST)
 http://randomserver.site:2086/crystal/12345/65849
-#EXTINF:-1,CA : FAMILY JUNIOR
+#EXTINF:-1 group-title="CANADA" ,FAMILY JUNIOR
 http://randomserver.site:2086/crystal/12345/3255
-#EXTINF:-1,CA : FAMILY WEST
+#EXTINF:-1 group-title="CANADA" ,FAMILY WEST
 http://randomserver.site:2086/crystal/12345/3256
-#EXTINF:-1,CA : FIGHT NETWORK
+#EXTINF:-1 group-title="CANADA" ,FIGHT NETWORK
 http://randomserver.site:2086/crystal/12345/3254
-#EXTINF:-1,CA : FOOD NETWORK
+#EXTINF:-1 group-title="CANADA" ,FOOD NETWORK
 http://randomserver.site:2086/crystal/12345/3253
-#EXTINF:-1,CA : FOX
+#EXTINF:-1 group-title="CANADA" ,FOX
 http://randomserver.site:2086/crystal/12345/3251
-#EXTINF:-1,CA : FOX EAST
+#EXTINF:-1 group-title="CANADA" ,FOX EAST
 http://randomserver.site:2086/crystal/12345/99172
-#EXTINF:-1,CA : FOX NEWS
+#EXTINF:-1 group-title="CANADA" ,FOX NEWS
 http://randomserver.site:2086/crystal/12345/3252
-#EXTINF:-1,CA : FOX SEATTLE HD
+#EXTINF:-1 group-title="CANADA" ,FOX SEATTLE HD
 http://randomserver.site:2086/crystal/12345/93982
-#EXTINF:-1,CA : FOX SPORTS RACING
+#EXTINF:-1 group-title="CANADA" ,FOX SPORTS RACING
 http://randomserver.site:2086/crystal/12345/65848
-#EXTINF:-1,CA : FX
+#EXTINF:-1 group-title="CANADA" ,FX
 http://randomserver.site:2086/crystal/12345/16201
-#EXTINF:-1,CA : FXX
+#EXTINF:-1 group-title="CANADA" ,FXX
 http://randomserver.site:2086/crystal/12345/16200
-#EXTINF:-1,CA : GAME SHOW NETWORK HD
+#EXTINF:-1 group-title="CANADA" ,GAME SHOW NETWORK HD
 http://randomserver.site:2086/crystal/12345/93915
-#EXTINF:-1,CA : GAME TV
+#EXTINF:-1 group-title="CANADA" ,GAME TV
 http://randomserver.site:2086/crystal/12345/3249
-#EXTINF:-1,CA : GAME+
+#EXTINF:-1 group-title="CANADA" ,GAME+
 http://randomserver.site:2086/crystal/12345/65847
-#EXTINF:-1,CA : GLOBAL BC
+#EXTINF:-1 group-title="CANADA" ,GLOBAL BC
 http://randomserver.site:2086/crystal/12345/99178
-#EXTINF:-1,CA : GLOBAL CALGARY
+#EXTINF:-1 group-title="CANADA" ,GLOBAL CALGARY
 http://randomserver.site:2086/crystal/12345/99173
-#EXTINF:-1,CA : GLOBAL EDMONTON
+#EXTINF:-1 group-title="CANADA" ,GLOBAL EDMONTON
 http://randomserver.site:2086/crystal/12345/3248
-#EXTINF:-1,CA : GLOBAL MONTREAL
+#EXTINF:-1 group-title="CANADA" ,GLOBAL MONTREAL
 http://randomserver.site:2086/crystal/12345/3247
-#EXTINF:-1,CA : GLOBAL REGINA
+#EXTINF:-1 group-title="CANADA" ,GLOBAL REGINA
 http://randomserver.site:2086/crystal/12345/99179
-#EXTINF:-1,CA : GLOBAL TORONTO
+#EXTINF:-1 group-title="CANADA" ,GLOBAL TORONTO
 http://randomserver.site:2086/crystal/12345/3246
-#EXTINF:-1,CA : H2
+#EXTINF:-1 group-title="CANADA" ,H2
 http://randomserver.site:2086/crystal/12345/91264
-#EXTINF:-1,CA : HBO 1
+#EXTINF:-1 group-title="CANADA" ,HBO 1
 http://randomserver.site:2086/crystal/12345/3245
-#EXTINF:-1,CA : HBO 2
+#EXTINF:-1 group-title="CANADA" ,HBO 2
 http://randomserver.site:2086/crystal/12345/3244
-#EXTINF:-1,CA : HGTV
+#EXTINF:-1 group-title="CANADA" ,HGTV
 http://randomserver.site:2086/crystal/12345/3243
-#EXTINF:-1,CA : HISTORY CHANNEL
+#EXTINF:-1 group-title="CANADA" ,HISTORY CHANNEL
 http://randomserver.site:2086/crystal/12345/3242
-#EXTINF:-1,CA : HLN
+#EXTINF:-1 group-title="CANADA" ,HLN
 http://randomserver.site:2086/crystal/12345/3241
-#EXTINF:-1,CA : HOPE TV
+#EXTINF:-1 group-title="CANADA" ,HOPE TV
 http://randomserver.site:2086/crystal/12345/99174
-#EXTINF:-1,CA : HPI RACING
+#EXTINF:-1 group-title="CANADA" ,HPI RACING
 http://randomserver.site:2086/crystal/12345/91213
-#EXTINF:-1,CA : ICI ARTV HD
+#EXTINF:-1 group-title="CANADA" ,ICI ARTV HD
 http://randomserver.site:2086/crystal/12345/93951
-#EXTINF:-1,CA : ID
+#EXTINF:-1 group-title="CANADA" ,ID
 http://randomserver.site:2086/crystal/12345/16235
-#EXTINF:-1,CA : INVESTIGATION HD
+#EXTINF:-1 group-title="CANADA" ,INVESTIGATION HD
 http://randomserver.site:2086/crystal/12345/93928
-#EXTINF:-1,CA : KNOW
+#EXTINF:-1 group-title="CANADA" ,KNOW
 http://randomserver.site:2086/crystal/12345/13232
-#EXTINF:-1,CA : KNOWLEDGE NETWORK
+#EXTINF:-1 group-title="CANADA" ,KNOWLEDGE NETWORK
 http://randomserver.site:2086/crystal/12345/63662
-#EXTINF:-1,CA : LCN HD
+#EXTINF:-1 group-title="CANADA" ,LCN HD
 http://randomserver.site:2086/crystal/12345/93927
-#EXTINF:-1,CA : LEAFS TV
+#EXTINF:-1 group-title="CANADA" ,LEAFS TV
 http://randomserver.site:2086/crystal/12345/95306
-#EXTINF:-1,CA : LIFETIME
+#EXTINF:-1 group-title="CANADA" ,LIFETIME
 http://randomserver.site:2086/crystal/12345/65843
-#EXTINF:-1,CA : LOVE NATURE
+#EXTINF:-1 group-title="CANADA" ,LOVE NATURE
 http://randomserver.site:2086/crystal/12345/66744
-#EXTINF:-1,CA : MAKEFUL
+#EXTINF:-1 group-title="CANADA" ,MAKEFUL
 http://randomserver.site:2086/crystal/12345/65841
-#EXTINF:-1,CA : MLB NETWORK
+#EXTINF:-1 group-title="CANADA" ,MLB NETWORK
 http://randomserver.site:2086/crystal/12345/65842
-#EXTINF:-1,CA : MOTORTREND
+#EXTINF:-1 group-title="CANADA" ,MOTORTREND
 http://randomserver.site:2086/crystal/12345/16196
-#EXTINF:-1,CA : MOVIETIME
+#EXTINF:-1 group-title="CANADA" ,MOVIETIME
 http://randomserver.site:2086/crystal/12345/13231
-#EXTINF:-1,CA : MTV
+#EXTINF:-1 group-title="CANADA" ,MTV
 http://randomserver.site:2086/crystal/12345/13229
-#EXTINF:-1,CA : MTV 2
+#EXTINF:-1 group-title="CANADA" ,MTV 2
 http://randomserver.site:2086/crystal/12345/13230
-#EXTINF:-1,CA : MUCH
+#EXTINF:-1 group-title="CANADA" ,MUCH
 http://randomserver.site:2086/crystal/12345/93973
-#EXTINF:-1,CA : MUCH MUSIC
+#EXTINF:-1 group-title="CANADA" ,MUCH MUSIC
 http://randomserver.site:2086/crystal/12345/13228
-#EXTINF:-1,CA : NAT GEO WILD
+#EXTINF:-1 group-title="CANADA" ,NAT GEO WILD
 http://randomserver.site:2086/crystal/12345/65838
-#EXTINF:-1,CA : NATIONAL GEOGRAPHIC
+#EXTINF:-1 group-title="CANADA" ,NATIONAL GEOGRAPHIC
 http://randomserver.site:2086/crystal/12345/13233
-#EXTINF:-1,CA : NBA TV
+#EXTINF:-1 group-title="CANADA" ,NBA TV
 http://randomserver.site:2086/crystal/12345/65840
-#EXTINF:-1,CA : NBC GOLF
+#EXTINF:-1 group-title="CANADA" ,NBC GOLF
 http://randomserver.site:2086/crystal/12345/3403
-#EXTINF:-1,CA : NBC SEATTLE HD
+#EXTINF:-1 group-title="CANADA" ,NBC SEATTLE HD
 http://randomserver.site:2086/crystal/12345/93980
-#EXTINF:-1,CA : NBC WEST
+#EXTINF:-1 group-title="CANADA" ,NBC WEST
 http://randomserver.site:2086/crystal/12345/91260
-#EXTINF:-1,CA : NFL NETWORK
+#EXTINF:-1 group-title="CANADA" ,NFL NETWORK
 http://randomserver.site:2086/crystal/12345/3402
-#EXTINF:-1,CA : NICKELODEON
+#EXTINF:-1 group-title="CANADA" ,NICKELODEON
 http://randomserver.site:2086/crystal/12345/3238
-#EXTINF:-1,CA : NTV NEWFOUNDLAND
+#EXTINF:-1 group-title="CANADA" ,NTV NEWFOUNDLAND
 http://randomserver.site:2086/crystal/12345/36347
-#EXTINF:-1,CA : OLN
+#EXTINF:-1 group-title="CANADA" ,OLN
 http://randomserver.site:2086/crystal/12345/65837
-#EXTINF:-1,CA : OMNI EAST
+#EXTINF:-1 group-title="CANADA" ,OMNI EAST
 http://randomserver.site:2086/crystal/12345/65836
-#EXTINF:-1,CA : OMNI PRINCE GEORGE
+#EXTINF:-1 group-title="CANADA" ,OMNI PRINCE GEORGE
 http://randomserver.site:2086/crystal/12345/91271
-#EXTINF:-1,CA : OMNI VANCOUVER HD
+#EXTINF:-1 group-title="CANADA" ,OMNI VANCOUVER HD
 http://randomserver.site:2086/crystal/12345/93920
-#EXTINF:-1,CA : OMNI.1
+#EXTINF:-1 group-title="CANADA" ,OMNI.1
 http://randomserver.site:2086/crystal/12345/65835
-#EXTINF:-1,CA : OMNI.2
+#EXTINF:-1 group-title="CANADA" ,OMNI.2
 http://randomserver.site:2086/crystal/12345/65834
-#EXTINF:-1,CA : ONE
+#EXTINF:-1 group-title="CANADA" ,ONE
 http://randomserver.site:2086/crystal/12345/91262
-#EXTINF:-1,CA : ONE: GET FIT
+#EXTINF:-1 group-title="CANADA" ,ONE: GET FIT
 http://randomserver.site:2086/crystal/12345/93967
-#EXTINF:-1,CA : OUT TV
+#EXTINF:-1 group-title="CANADA" ,OUT TV
 http://randomserver.site:2086/crystal/12345/91215
-#EXTINF:-1,CA : OWN
+#EXTINF:-1 group-title="CANADA" ,OWN
 http://randomserver.site:2086/crystal/12345/3237
-#EXTINF:-1,CA : PARAMOUNT
+#EXTINF:-1 group-title="CANADA" ,PARAMOUNT
 http://randomserver.site:2086/crystal/12345/91265
-#EXTINF:-1,CA : PBS BUFFALO (WNED)
+#EXTINF:-1 group-title="CANADA" ,PBS BUFFALO (WNED)
 http://randomserver.site:2086/crystal/12345/65833
-#EXTINF:-1,CA : PBS SEATTLE HD
+#EXTINF:-1 group-title="CANADA" ,PBS SEATTLE HD
 http://randomserver.site:2086/crystal/12345/93979
-#EXTINF:-1,CA : PBS WEST
+#EXTINF:-1 group-title="CANADA" ,PBS WEST
 http://randomserver.site:2086/crystal/12345/3236
-#EXTINF:-1,CA : PEACH TREE TV
+#EXTINF:-1 group-title="CANADA" ,PEACH TREE TV
 http://randomserver.site:2086/crystal/12345/3235
-#EXTINF:-1,CA : PIX 11
+#EXTINF:-1 group-title="CANADA" ,PIX 11
 http://randomserver.site:2086/crystal/12345/3377
-#EXTINF:-1,CA : PRISE 2 HD
+#EXTINF:-1 group-title="CANADA" ,PRISE 2 HD
 http://randomserver.site:2086/crystal/12345/93943
-#EXTINF:-1,CA : RDS INFO
+#EXTINF:-1 group-title="CANADA" ,RDS INFO
 http://randomserver.site:2086/crystal/12345/93984
-#EXTINF:-1,CA : SAVOIR MEDIA (CFTU)
+#EXTINF:-1 group-title="CANADA" ,SAVOIR MEDIA (CFTU)
 http://randomserver.site:2086/crystal/12345/93963
-#EXTINF:-1,CA : SHOWCASE
+#EXTINF:-1 group-title="CANADA" ,SHOWCASE
 http://randomserver.site:2086/crystal/12345/65832
-#EXTINF:-1,CA : SILVER SCREEN CLASSICS
+#EXTINF:-1 group-title="CANADA" ,SILVER SCREEN CLASSICS
 http://randomserver.site:2086/crystal/12345/3230
-#EXTINF:-1,CA : SLICE
+#EXTINF:-1 group-title="CANADA" ,SLICE
 http://randomserver.site:2086/crystal/12345/3231
-#EXTINF:-1,CA : SPIKE
+#EXTINF:-1 group-title="CANADA" ,SPIKE
 http://randomserver.site:2086/crystal/12345/3228
-#EXTINF:-1,CA : SPORTSMAN
+#EXTINF:-1 group-title="CANADA" ,SPORTSMAN
 http://randomserver.site:2086/crystal/12345/99176
-#EXTINF:-1,CA : SPORTSNET 360
+#EXTINF:-1 group-title="CANADA" ,SPORTSNET 360
 http://randomserver.site:2086/crystal/12345/3227
-#EXTINF:-1,CA : SPORTSNET EAST
+#EXTINF:-1 group-title="CANADA" ,SPORTSNET EAST
 http://randomserver.site:2086/crystal/12345/3226
-#EXTINF:-1,CA : SPORTSNET ONE
+#EXTINF:-1 group-title="CANADA" ,SPORTSNET ONE
 http://randomserver.site:2086/crystal/12345/3225
-#EXTINF:-1,CA : SPORTSNET ONTARIO
+#EXTINF:-1 group-title="CANADA" ,SPORTSNET ONTARIO
 http://randomserver.site:2086/crystal/12345/3224
-#EXTINF:-1,CA : SPORTSNET PACIFIC
+#EXTINF:-1 group-title="CANADA" ,SPORTSNET PACIFIC
 http://randomserver.site:2086/crystal/12345/3223
-#EXTINF:-1,CA : SPORTSNET WEST
+#EXTINF:-1 group-title="CANADA" ,SPORTSNET WEST
 http://randomserver.site:2086/crystal/12345/3222
-#EXTINF:-1,CA : SPORTSNET WORLD
+#EXTINF:-1 group-title="CANADA" ,SPORTSNET WORLD
 http://randomserver.site:2086/crystal/12345/3221
-#EXTINF:-1,CA : SUPER CHANNEL FUSE
+#EXTINF:-1 group-title="CANADA" ,SUPER CHANNEL FUSE
 http://randomserver.site:2086/crystal/12345/3232
-#EXTINF:-1,CA : SUPER CHANNEL GINX
+#EXTINF:-1 group-title="CANADA" ,SUPER CHANNEL GINX
 http://randomserver.site:2086/crystal/12345/3219
-#EXTINF:-1,CA : SUPER CHANNEL HEART & HOME
+#EXTINF:-1 group-title="CANADA" ,SUPER CHANNEL HEART & HOME
 http://randomserver.site:2086/crystal/12345/66739
-#EXTINF:-1,CA : SUPER CHANNEL VAULT
+#EXTINF:-1 group-title="CANADA" ,SUPER CHANNEL VAULT
 http://randomserver.site:2086/crystal/12345/66740
-#EXTINF:-1,CA : SUPER SPORTS CH 431 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 431 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66903
-#EXTINF:-1,CA : SUPER SPORTS CH 432 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 432 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66904
-#EXTINF:-1,CA : SUPER SPORTS CH 433 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 433 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66905
-#EXTINF:-1,CA : SUPER SPORTS CH 434 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 434 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66906
-#EXTINF:-1,CA : SUPER SPORTS CH 435 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 435 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66907
-#EXTINF:-1,CA : SUPER SPORTS CH 436 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 436 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66908
-#EXTINF:-1,CA : SUPER SPORTS CH 437 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 437 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66909
-#EXTINF:-1,CA : SUPER SPORTS CH 438 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 438 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66911
-#EXTINF:-1,CA : SUPER SPORTS CH 439 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 439 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66910
-#EXTINF:-1,CA : SUPER SPORTS CH 440 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 440 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66912
-#EXTINF:-1,CA : SUPER SPORTS CH 441 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 441 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66913
-#EXTINF:-1,CA : SUPER SPORTS CH 442 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 442 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66914
-#EXTINF:-1,CA : SUPER SPORTS CH 443 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 443 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66915
-#EXTINF:-1,CA : SUPER SPORTS CH 444 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 444 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66916
-#EXTINF:-1,CA : SUPER SPORTS CH 450 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 450 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66917
-#EXTINF:-1,CA : SUPER SPORTS CH 452 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 452 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66918
-#EXTINF:-1,CA : SUPER SPORTS CH 453 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 453 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66919
-#EXTINF:-1,CA : SUPER SPORTS CH 454 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 454 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66922
-#EXTINF:-1,CA : SUPER SPORTS CH 455 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 455 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66920
-#EXTINF:-1,CA : SUPER SPORTS CH 456 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 456 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66921
-#EXTINF:-1,CA : SUPER SPORTS CH 457 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 457 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66923
-#EXTINF:-1,CA : SUPER SPORTS CH 458 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 458 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66924
-#EXTINF:-1,CA : SUPER SPORTS CH 459 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 459 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66925
-#EXTINF:-1,CA : SUPER SPORTS CH 460 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 460 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66926
-#EXTINF:-1,CA : SUPER SPORTS CH 461 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 461 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66927
-#EXTINF:-1,CA : SUPER SPORTS CH 462 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 462 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66928
-#EXTINF:-1,CA : SUPER SPORTS CH 464 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 464 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66929
-#EXTINF:-1,CA : SUPER SPORTS CH 465 (WHEN LIVE)
+#EXTINF:-1 group-title="CANADA" ,SUPER SPORTS CH 465 (WHEN LIVE)
 http://randomserver.site:2086/crystal/12345/66930
-#EXTINF:-1,CA : TCM
+#EXTINF:-1 group-title="CANADA" ,TCM
 http://randomserver.site:2086/crystal/12345/3217
-#EXTINF:-1,CA : TELE QUEBEC
+#EXTINF:-1 group-title="CANADA" ,TELE QUEBEC
 http://randomserver.site:2086/crystal/12345/93960
-#EXTINF:-1,CA : TELETOON
+#EXTINF:-1 group-title="CANADA" ,TELETOON
 http://randomserver.site:2086/crystal/12345/3205
-#EXTINF:-1,CA : TFO
+#EXTINF:-1 group-title="CANADA" ,TFO
 http://randomserver.site:2086/crystal/12345/65830
-#EXTINF:-1,CA : THE SHOPPING CHANNEL
+#EXTINF:-1 group-title="CANADA" ,THE SHOPPING CHANNEL
 http://randomserver.site:2086/crystal/12345/36348
-#EXTINF:-1,CA : TLC
+#EXTINF:-1 group-title="CANADA" ,TLC
 http://randomserver.site:2086/crystal/12345/3207
-#EXTINF:-1,CA : TRAVEL + ESCAPE SD
+#EXTINF:-1 group-title="CANADA" ,TRAVEL + ESCAPE SD
 http://randomserver.site:2086/crystal/12345/99177
-#EXTINF:-1,CA : TREEHOUSE TV
+#EXTINF:-1 group-title="CANADA" ,TREEHOUSE TV
 http://randomserver.site:2086/crystal/12345/3203
-#EXTINF:-1,CA : TSN 1
+#EXTINF:-1 group-title="CANADA" ,TSN 1
 http://randomserver.site:2086/crystal/12345/3202
-#EXTINF:-1,CA : TSN 2
+#EXTINF:-1 group-title="CANADA" ,TSN 2
 http://randomserver.site:2086/crystal/12345/3201
-#EXTINF:-1,CA : TSN 3
+#EXTINF:-1 group-title="CANADA" ,TSN 3
 http://randomserver.site:2086/crystal/12345/8802
-#EXTINF:-1,CA : TSN 4
+#EXTINF:-1 group-title="CANADA" ,TSN 4
 http://randomserver.site:2086/crystal/12345/3199
-#EXTINF:-1,CA : TSN 5
+#EXTINF:-1 group-title="CANADA" ,TSN 5
 http://randomserver.site:2086/crystal/12345/3198
-#EXTINF:-1,CA : TV 5 QUEBEC CANADA HD
+#EXTINF:-1 group-title="CANADA" ,TV 5 QUEBEC CANADA HD
 http://randomserver.site:2086/crystal/12345/93929
-#EXTINF:-1,CA : TV ONTARIO
+#EXTINF:-1 group-title="CANADA" ,TV ONTARIO
 http://randomserver.site:2086/crystal/12345/65828
-#EXTINF:-1,CA : TV ONTARIO (CICA)
+#EXTINF:-1 group-title="CANADA" ,TV ONTARIO (CICA)
 http://randomserver.site:2086/crystal/12345/93958
-#EXTINF:-1,CA : TVA MONTREAL
+#EXTINF:-1 group-title="CANADA" ,TVA MONTREAL
 http://randomserver.site:2086/crystal/12345/65826
-#EXTINF:-1,CA : TVA SPORTS HD
+#EXTINF:-1 group-title="CANADA" ,TVA SPORTS HD
 http://randomserver.site:2086/crystal/12345/93986
-#EXTINF:-1,CA : VISION TV
+#EXTINF:-1 group-title="CANADA" ,VISION TV
 http://randomserver.site:2086/crystal/12345/65822
-#EXTINF:-1,CA : VRAK HD
+#EXTINF:-1 group-title="CANADA" ,VRAK HD
 http://randomserver.site:2086/crystal/12345/93976
-#EXTINF:-1,CA : W NETWORK
+#EXTINF:-1 group-title="CANADA" ,W NETWORK
 http://randomserver.site:2086/crystal/12345/3195
-#EXTINF:-1,CA : WEATHER NETWORK
+#EXTINF:-1 group-title="CANADA" ,WEATHER NETWORK
 http://randomserver.site:2086/crystal/12345/65821
-#EXTINF:-1,CA : WEATHER NETWORK HD
+#EXTINF:-1 group-title="CANADA" ,WEATHER NETWORK HD
 http://randomserver.site:2086/crystal/12345/99181
-#EXTINF:-1,CA : WGN CHICAGO
+#EXTINF:-1 group-title="CANADA" ,WGN CHICAGO
 http://randomserver.site:2086/crystal/12345/91638
-#EXTINF:-1,CA : WILD TV
+#EXTINF:-1 group-title="CANADA" ,WILD TV
 http://randomserver.site:2086/crystal/12345/93948
-#EXTINF:-1,CA : WSBK
+#EXTINF:-1 group-title="CANADA" ,WSBK
 http://randomserver.site:2086/crystal/12345/3192
-#EXTINF:-1,CA : WWE
+#EXTINF:-1 group-title="CANADA" ,WWE
 http://randomserver.site:2086/crystal/12345/16218
-#EXTINF:-1,CA : YES BURLINGTON
+#EXTINF:-1 group-title="CANADA" ,YES BURLINGTON
 http://randomserver.site:2086/crystal/12345/93957
-#EXTINF:-1,CA : YES TV
+#EXTINF:-1 group-title="CANADA" ,YES TV
 http://randomserver.site:2086/crystal/12345/3191
-#EXTINF:-1,CA : YTV EAST
+#EXTINF:-1 group-title="CANADA" ,YTV EAST
 http://randomserver.site:2086/crystal/12345/3190
-#EXTINF:-1,CA : YTV WEST
+#EXTINF:-1 group-title="CANADA" ,YTV WEST
 http://randomserver.site:2086/crystal/12345/93919
+#EXTINF:-1 group-title="USA",A&E HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/550
+#EXTINF:-1 group-title="USA",A&E TV HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7771
+#EXTINF:-1 group-title="USA",ABC FHD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7592
+#EXTINF:-1 group-title="USA",ABC HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/539
+#EXTINF:-1 group-title="USA",ABC News HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/540
+#EXTINF:-1 group-title="USA",AFN Spectrum HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7726
+#EXTINF:-1 group-title="USA",AFN Sport 1 US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/1136
+#EXTINF:-1 group-title="USA",AMC HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/521
+#EXTINF:-1 group-title="USA",AMC US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7792
+#EXTINF:-1 group-title="USA",Amazing Discoveries HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/551
+#EXTINF:-1 group-title="USA",Animal Planet US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7791
+#EXTINF:-1 group-title="USA",beINSports HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/506
+#EXTINF:-1 group-title="USA",BET HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7770
+#EXTINF:-1 group-title="USA",BYU TV US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/522
+#EXTINF:-1 group-title="USA",Bloomberg Europe US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/503
+#EXTINF:-1 group-title="USA",Bloomberg TV HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/489
+#EXTINF:-1 group-title="USA",Boomerang US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/502
+#EXTINF:-1 group-title="USA",Bravo HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/541
+#EXTINF:-1 group-title="USA",Bravo US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7790
+#EXTINF:-1 group-title="USA",C-Span 1 US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/564
+#EXTINF:-1 group-title="USA",C-Span 2 US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/565
+#EXTINF:-1 group-title="USA",C-Span 3 US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/566
+#EXTINF:-1 group-title="USA",CBS US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/486
+#EXTINF:-1 group-title="USA",CBSN HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/524
+#EXTINF:-1 group-title="USA",CNBC US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/525
+#EXTINF:-1 group-title="USA",CNN HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/568
+#EXTINF:-1 group-title="USA",Cheddar
+https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
+EXTINF:-1 group-title="USA",Cheddar Business
+https://live.chdrstatic.com/cheddar/primary/1.m3u8
+EXTINF:-1 group-title="USA",Cheddar News
+https://live.chdrstatic.com/cbn/primary/1.m3u8
+#EXTINF:-1 group-title="USA",CW HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/543
+#EXTINF:-1 group-title="USA",CW US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7777
+#EXTINF:-1 group-title="USA",CW11 US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/500
+#EXTINF:-1 group-title="USA",Cable News Network HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7769
+#EXTINF:-1 group-title="USA",Cartoon Network US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/523
+#EXTINF:-1 group-title="USA",CineMax 5 StarMax US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/507
+#EXTINF:-1 group-title="USA",CineMax Action HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/567
+#EXTINF:-1 group-title="USA",CineMax ActionMax East US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/508
+#EXTINF:-1 group-title="USA",CineMax East US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/509
+#EXTINF:-1 group-title="USA",CineMax MoreMax US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/501
+#EXTINF:-1 group-title="USA",Cinemax Action US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7789
+#EXTINF:-1 group-title="USA",Cinemax More HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7768
+#EXTINF:-1 group-title="USA",Comedy Central FHD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/542
+#EXTINF:-1 group-title="USA",Comedy Central US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7788
+#EXTINF:-1 group-title="USA",DIY Network HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7728
+#EXTINF:-1 group-title="USA",DIY Network US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/482
+#EXTINF:-1 group-title="USA",DW US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/528
+#EXTINF:-1 group-title="USA",Discovery Channel CA FHD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7580
+#EXTINF:-1 group-title="USA",Discovery Channel HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7767
+#EXTINF:-1 group-title="USA",Discovery HD Showcase US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/499
+#EXTINF:-1 group-title="USA",Discovery HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/526
+#EXTINF:-1 group-title="USA",Discovery Science HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/510
+#EXTINF:-1 group-title="USA",Discovery Velocity US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/527
+#EXTINF:-1 group-title="USA",Disney Channel HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7766
+#EXTINF:-1 group-title="USA",Disney XD HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7765
+#EXTINF:-1 group-title="USA",E! Entertainment HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7764
+#EXTINF:-1 group-title="USA",ESPN 1 HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7763
+#EXTINF:-1 group-title="USA",ESPN 1 US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/552
+#EXTINF:-1 group-title="USA",ESPN 2 FHD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/569
+#EXTINF:-1 group-title="USA",ESPN 2 US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7787
+#EXTINF:-1 group-title="USA",ESPN HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/544
+#EXTINF:-1 group-title="USA",El Rey Network HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7715
+#EXTINF:-1 group-title="USA",FOX 43 US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/570
+#EXTINF:-1 group-title="USA",FX HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/513
+#EXTINF:-1 group-title="USA",FX US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7784
+#EXTINF:-1 group-title="USA",Fashion One HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/498
+#EXTINF:-1 group-title="USA",Fight HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/529
+#EXTINF:-1 group-title="USA",Fight Sport HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/584
+#EXTINF:-1 group-title="USA",Fine Living US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/497
+#EXTINF:-1 group-title="USA",Food Network HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/511
+#EXTINF:-1 group-title="USA",Food Network US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7783
+#EXTINF:-1 group-title="USA",Fox HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/512
+#EXTINF:-1 group-title="USA",Fox News HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/545
+#EXTINF:-1 group-title="USA",Fox Soccer Plus HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/6206
+#EXTINF:-1 group-title="USA",Fox Soccer Plus US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7785
+#EXTINF:-1 group-title="USA",Fox Sports 1 HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/553
+#EXTINF:-1 group-title="USA",Fox Sports 1 US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7786
+#EXTINF:-1 group-title="USA",Fox Sports 2 FHD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/554
+#EXTINF:-1 group-title="USA",Fox Sports 2 HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7759
+#EXTINF:-1 group-title="USA",Fox Sports 506 HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/571
+#EXTINF:-1 group-title="USA",Fox Sports College Central HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7756
+#EXTINF:-1 group-title="USA",Fox Sports HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7760
+#EXTINF:-1 group-title="USA",Fox Sports North HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7752
+#EXTINF:-1 group-title="USA",Free Form HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/572
+#EXTINF:-1 group-title="USA",FreeForm HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7688
+#EXTINF:-1 group-title="USA",GSN HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7749
+#EXTINF:-1 group-title="USA",H2 US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/514
+#EXTINF:-1 group-title="USA",HBO Comedy HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/530
+#EXTINF:-1 group-title="USA",HBO East US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/483
+#EXTINF:-1 group-title="USA",HBO Family HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7748
+#EXTINF:-1 group-title="USA",HBO HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/531
+#EXTINF:-1 group-title="USA",HBO Signature HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7747
+#EXTINF:-1 group-title="USA",HBO Signature US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/484
+#EXTINF:-1 group-title="USA",HBO US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7776
+#EXTINF:-1 group-title="USA",HBO Zone US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/532
+#EXTINF:-1 group-title="USA",HGTV HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/495
+#EXTINF:-1 group-title="USA",HGTV US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7782
+#EXTINF:-1 group-title="USA",Hallmark Channel HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7746
+#EXTINF:-1 group-title="USA",Hallmark US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/515
+#EXTINF:-1 group-title="USA",Hallmark Movies & Mysteries HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/46888
+#EXTINF:-1 group-title="USA",History HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/546
+#EXTINF:-1 group-title="USA",History US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7781
+#EXTINF:-1 group-title="USA",IFC HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7710
+#EXTINF:-1 group-title="USA",Investigation Discovery HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7693
+#EXTINF:-1 group-title="USA",Lifetime HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7745
+#EXTINF:-1 group-title="USA",MLB HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/573
+#EXTINF:-1 group-title="USA",MLB Network HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7701
+#EXTINF:-1 group-title="USA",MLB Network US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/574
+#EXTINF:-1 group-title="USA",MSNBC HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/575
+#EXTINF:-1 group-title="USA",MTV Base HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7744
+#EXTINF:-1 group-title="USA",MTV Rocks US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/494
+#EXTINF:-1 group-title="USA",NBA HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/533
+#EXTINF:-1 group-title="USA",NBC Golf Channel FHD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/6147
+#EXTINF:-1 group-title="USA",NBC Golf Channel HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/6146
+#EXTINF:-1 group-title="USA",NBC Golf HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7743
+#EXTINF:-1 group-title="USA",NBC News HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7742
+#EXTINF:-1 group-title="USA",NBC SN HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7741
+#EXTINF:-1 group-title="USA",NBC US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/490
+#EXTINF:-1 group-title="USA",NBCSN HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/555
+#EXTINF:-1 group-title="USA",NFL Network 1 US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/504
+#EXTINF:-1 group-title="USA",NFL Network FHD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/505
+#EXTINF:-1 group-title="USA",NFL Network HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/556
+#EXTINF:-1 group-title="USA",NFL Network US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7793
+#EXTINF:-1 group-title="USA",NFL Now HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7773
+#EXTINF:-1 group-title="USA",NFL Redzone HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7772
+#EXTINF:-1 group-title="USA",NHL Network US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/576
+#EXTINF:-1 group-title="USA",Nat Geo Wild HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7692
+#EXTINF:-1 group-title="USA",Nat Geographic HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7691
+#EXTINF:-1 group-title="USA",National Geographic US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/517
+#EXTINF:-1 group-title="USA",Oprah Winfrey Network HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7740
+#EXTINF:-1 group-title="USA",Outdoor Channel HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/493
+#EXTINF:-1 group-title="USA",PAC-12 Arizona US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/557
+#EXTINF:-1 group-title="USA",PAC-12 Bay Area US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/558
+#EXTINF:-1 group-title="USA",PAC-12 Los Angeles FHD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/559
+#EXTINF:-1 group-title="USA",PAC-12 Oregon FHD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/560
+#EXTINF:-1 group-title="USA",PAC-12 Washington FHD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/561
+#EXTINF:-1 group-title="USA",Reelz HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7739
+#EXTINF:-1 group-title="USA",SEC Network HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7707
+#EXTINF:-1 group-title="USA",Science HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7738
+#EXTINF:-1 group-title="USA",Showtime 2 HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7737
+#EXTINF:-1 group-title="USA",Showtime 2 US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/534
+#EXTINF:-1 group-title="USA",Showtime East HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7736
+#EXTINF:-1 group-title="USA",Showtime FHD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/535
+#EXTINF:-1 group-title="USA",Showtime Showcase HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7735
+#EXTINF:-1 group-title="USA",Showtime West US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/485
+#EXTINF:-1 group-title="USA",Paramount Network HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/518
+#EXTINF:-1 group-title="USA",Paramount Network US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7727
+#EXTINF:-1 group-title="USA",Starz Cinema US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/536
+#EXTINF:-1 group-title="USA",Starz Comedy US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/537
+#EXTINF:-1 group-title="USA",Starz Edge HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/519
+#EXTINF:-1 group-title="USA",Starz Edge US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7780
+#EXTINF:-1 group-title="USA",Starz Encore HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7731
+#EXTINF:-1 group-title="USA",Starz Encore US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/538
+#EXTINF:-1 group-title="USA",SyFy HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/548
+#EXTINF:-1 group-title="USA",SyFy US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7779
+#EXTINF:-1 group-title="USA",TBS HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/578
+#EXTINF:-1 group-title="USA",TNT HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/549
+#EXTINF:-1 group-title="USA",Travel Channel HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7694
+#EXTINF:-1 group-title="USA",truTV HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7705
+#EXTINF:-1 group-title="USA",UFC Fight Pass US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/6421
+#EXTINF:-1 group-title="USA",US Network HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/520
+#EXTINF:-1 group-title="USA",USA HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7729
+#EXTINF:-1 group-title="USA",USA Network HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/547
+#EXTINF:-1 group-title="USA",Univision HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7704
+#EXTINF:-1 group-title="USA",VH1 Classic US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/491
+#EXTINF:-1 group-title="USA",WWE HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/562
+#EXTINF:-1 group-title="USA",WWE Network FHD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7544
+#EXTINF:-1 group-title="USA",WWE US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/7778
+#EXTINF:-1 group-title="USA",Zee Cinema US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/2792
+#EXTINF:-1 group-title="USA",NBA Live 1 HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/8538
+#EXTINF:-1 group-title="USA",Smithsonian Channel US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/41479
+#EXTINF:-1 group-title="USA",Fox Business HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/78205
+#EXTINF:-1 group-title="USA",MTV FHD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/78212
+#EXTINF:-1 group-title="USA",MTV HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/78213
+#EXTINF:-1 group-title="USA",MTV2 HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/78214
+#EXTINF:-1 group-title="USA",MTV LIVE HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/78215
+#EXTINF:-1 group-title="USA",MTV Classic HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/78216
+#EXTINF:-1 group-title="USA",MTV U HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/78217
+#EXTINF:-1 group-title="USA",AXS TV HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/78218
+#EXTINF:-1 group-title="USA",VH1 HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/78227
+#EXTINF:-1 group-title="USA",Adult Swim US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/78304
+#EXTINF:-1 group-title="USA",NESN HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/78410
+#EXTINF:-1 group-title="USA",NESN Plus HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/78411
+#EXTINF:-1 group-title="USA",CBS Sports Network HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/79740
+#EXTINF:-1 group-title="USA",Comet tv HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82743
+#EXTINF:-1 group-title="USA",One America News FHD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82774
+#EXTINF:-1 group-title="USA",Lifetime Movies HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82796
+#EXTINF:-1 group-title="USA",We TV HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82797
+#EXTINF:-1 group-title="USA",Nasa TV HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82798
+#EXTINF:-1 group-title="USA",AccuWeather FHD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82799
+#EXTINF:-1 group-title="USA",HBO LATINO HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82800
+#EXTINF:-1 group-title="USA",The Movie Channel HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82801
+#EXTINF:-1 group-title="USA",HDNET MOVIES HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82802
+#EXTINF:-1 group-title="USA",MGM FHD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82803
+#EXTINF:-1 group-title="USA",MGM SCI-FI US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82804
+#EXTINF:-1 group-title="USA",FXX East HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82810
+#EXTINF:-1 group-title="USA",The Weather Channel HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82815
+#EXTINF:-1 group-title="USA",Bounce TV US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82816
+#EXTINF:-1 group-title="USA",HALLMARK DRAMA HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82817
+#EXTINF:-1 group-title="USA",ME TV HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82818
+#EXTINF:-1 group-title="USA",NECN HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82819
+#EXTINF:-1 group-title="USA",BBC America FHD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82820
+#EXTINF:-1 group-title="USA",BBC America HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82821
+#EXTINF:-1 group-title="USA",Law & Crime Rewind (S) FHD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82822
+#EXTINF:-1 group-title="USA",Law & Crime Network (F) FHD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82823
+#EXTINF:-1 group-title="USA",Free Speech TV (S) FHD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82824
+#EXTINF:-1 group-title="USA",Free Speech TV US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82825
+#EXTINF:-1 group-title="USA",TBD HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82826
+#EXTINF:-1 group-title="USA",Court TV US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82827
+#EXTINF:-1 group-title="USA",COWBOY CHANNEL HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82829
+#EXTINF:-1 group-title="USA",TCM HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82830
+#EXTINF:-1 group-title="USA",FXM HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82831
+#EXTINF:-1 group-title="USA",FXX HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82832
+#EXTINF:-1 group-title="USA",Kids Classic Toons HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82840
+#EXTINF:-1 group-title="USA",Red Apple 21 - Fairfax County Public Schools - Virginia US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/82841
+#EXTINF:-1 group-title="USA",ION TV HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/83204
+#EXTINF:-1 group-title="USA",Redbull TV HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/83215
+#EXTINF:-1 group-title="USA",SPORTSMAN CHANNEL FHD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/83216
+#EXTINF:-1 group-title="USA",Olympic Channel HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/83217
+#EXTINF:-1 group-title="USA",Antenna TV US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/83548
+#EXTINF:-1 group-title="USA",COOKING CHANNEL US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/83549
+#EXTINF:-1 group-title="USA",Cooking Channel HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/83550
+#EXTINF:-1 group-title="USA",Cozi TV US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/83551
+#EXTINF:-1 group-title="USA",CTV sci-fi HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/83552
+#EXTINF:-1 group-title="USA",CTV DRAMA HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/83553
+#EXTINF:-1 group-title="USA", CTV COMEDY HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/83554
+#EXTINF:-1 group-title="USA",EPIX  HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/83555
+#EXTINF:-1 group-title="USA",EPIX 2 HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/83556
+#EXTINF:-1 group-title="USA",EPIX DRIVE IN HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/83557
+#EXTINF:-1 group-title="USA",EPIX HITS HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/83558
+#EXTINF:-1 group-title="USA",Logo HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/83559
+#EXTINF:-1 group-title="USA",LONGHORN NETWORK HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/83560
+#EXTINF:-1 group-title="USA",Oxygen HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/83561
+#EXTINF:-1 group-title="USA",Shorts TV HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/83562
+#EXTINF:-1 group-title="USA",Start TV HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/83563
+#EXTINF:-1 group-title="USA",Tastemade HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/83564
+#EXTINF:-1 group-title="USA",UP HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/83565
+#EXTINF:-1 group-title="USA",WGN America HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/83566
+#EXTINF:-1 group-title="USA",WGN-TV 9  Chicago HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/83567
+#EXTINF:-1 group-title="USA",WORLD FISHING NETWORK HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/83568
+#EXTINF:-1 group-title="USA",CMT HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/89983
+#EXTINF:-1 group-title="USA",CBS WPEC West Palm Beach HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/90056
+#EXTINF:-1 group-title="USA",Buzzr HD US
+http://portal.geniptv.com:8080/98b0c7957e5005b4/32e23dsaAcasA1ED12/90060
