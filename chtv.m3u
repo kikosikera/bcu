@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="BRAZIL",ESPN BRASIL
-http://ingrid.ltd:25461/Melon3175/Melon7531/41297?checkedby:iptvcat.com
-#EXTINF:-1 group-title="BRAZIL",GLOBO SP
 http://randomserver.site:2086/live/Bria/Bria/92701.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="BRAZIL",GLOBO SP
+http://ingrid.ltd:25461/Melon3175/Melon7531/41297?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="CANADA",GLOBAL
 http://randomserver.site:2086/live/Bria/Bria/3246.m3u8?checkedby:iptvcat.com
