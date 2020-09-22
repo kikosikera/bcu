@@ -13,7 +13,7 @@ http://66.northerniptv.ca:8000/live/george/george123/16.m3u8?checkedby:iptvcat.c
 http://66.northerniptv.ca:8000/live/george/george123/361.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="USA",ABC
-http://66.northerniptv.ca:8000/tommy2/123456/10?checkedby:iptvcat.com
+http://66.northerniptv.ca:8000/live/george/george123/64888.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="USA",NBC
 http://66.northerniptv.ca:8000/live/george/george123/7.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="USA",CHEDDAR
