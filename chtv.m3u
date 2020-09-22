@@ -9,8 +9,6 @@ http://66.northerniptv.ca:8000/live/george/george123/26278.m3u8?checkedby:iptvca
 http://66.northerniptv.ca:8000/live/george/george123/15.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="CANADA",CTV
 http://66.northerniptv.ca:8000/live/george/george123/16.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="CANADA",E!
-http://ingrid.ltd:25461/frank1/frank/67295?checkedby:iptvcat.com
 #EXTINF:-1 group-title="CANADA",CBC NEWS
 http://66.northerniptv.ca:8000/live/george/george123/361.m3u8?checkedby:iptvcat.com
 
@@ -19,7 +17,7 @@ http://66.northerniptv.ca:8000/tommy2/123456/10?checkedby:iptvcat.com
 #EXTINF:-1 group-title="USA",NBC
 http://66.northerniptv.ca:8000/live/george/george123/7.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="USA",CHEDDAR
-https://live.chdrstatic.com/cheddar/primary/1.m3u8?checkedby:iptvcat.com
+http://ingrid.ltd:25461/frank1/frank/40916?checkedby:iptvcat.com
 #EXTINF:-1 group-title="USA",CNN
 http://66.northerniptv.ca:8000/live/george/george123/360.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="USA",CNBC
