@@ -1,11 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="BRAZIL",ESPN BRASIL
+#EXTINF:-1 group-title="CHANNELS",ESPN BRA
 http://tvla.xyz:80/trojnmhf/l5m0Lkp1L0/44081?checkedby:iptvcat.com
 
-#EXTINF:-1 group-title="USA",CNN
+#EXTINF:-1 group-title="CHANNELS",CNN USA
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/142
-#EXTINF:-1 group-title="USA",CNBC
+#EXTINF:-1 group-title="CHANNELS",CNBC USA
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/11545
 
 
